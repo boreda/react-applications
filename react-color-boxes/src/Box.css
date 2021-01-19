@@ -1,0 +1,9 @@
+.Box {
+    width: 150px;
+    height: 150px;
+    background-color: violet;
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-radius: 2px;
+}
