@@ -1,0 +1,12 @@
+.Flip-button {
+    background-color: black;
+    color:whitesmoke;
+    padding: 10px;
+    border-radius: 5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Coin-img {
+    height: 300px;
+    width: 300px;
+}
